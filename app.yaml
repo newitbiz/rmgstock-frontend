@@ -1,6 +1,7 @@
 runtime: nodejs16
 service: default
-
-handlers:
-  - url: /.*
-    script: auto
+env: flex
+# handlers:
+#   - url: /.*
+#     secure: always
+#     script: auto
