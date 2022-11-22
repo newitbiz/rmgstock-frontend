@@ -16,7 +16,7 @@ const Categories = {
     { name: "joggers", Link: "/" },
     { name: "Salwar Kameez", Link: "/" },
     { name: "Frock", Link: "/" },
-  ],
+  ], 
 };
 
 export default Categories;
